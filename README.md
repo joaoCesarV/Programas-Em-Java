@@ -6,5 +6,5 @@
   Olá! Estou usando este repositório como forma de documentar resuluçoés para exercícios durante o meu curso de Java, e támbem para me familizarizar com o Git e o GitHub. 
 
 
-**arquivos dos exercícios em =>** [src/exercicios]([https://pages.github.com/](https://github.com/joaoCesarV/Programas-Em-Java/tree/main/src/exercicios)https://github.com/joaoCesarV/Programas-Em-Java/tree/main/src/exercicios)
+**arquivos dos exercícios em =>** [src/exercicios]([https://pages.github.com/](https://github.com/joaoCesarV/Programas-Em-Java/tree/main/src/exercicios)https://github.com/joaoCesarV/Programas-Em-Java/tree/main/src/exercicios).
 
