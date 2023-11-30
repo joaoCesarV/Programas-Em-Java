@@ -1,7 +1,7 @@
 package exercicios;
 import java.util.Scanner;
 
-public class Ex04CalculadoraSalario {
+public class Ex004CalculadoraSalario {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
