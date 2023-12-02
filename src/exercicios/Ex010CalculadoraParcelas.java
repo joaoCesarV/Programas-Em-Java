@@ -3,6 +3,10 @@ package test;
 import java.util.Scanner;
 
 public class Main {
+
+
+	//Crie um programa que leia o preço à vista de um produto e o número de parcelas e imprima o valor de cada parcela (considerando juros simples de 2% ao mês).
+
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
