@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Ex005CalculadoraEmprestimo {
 
+    //Crie um programa que leia o valor de um empréstimo, a taxa de juros mensal e o número de meses e imprima o valor da parcela mensal do empréstimo.
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
