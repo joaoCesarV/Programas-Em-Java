@@ -2,6 +2,13 @@ import java.util.Scanner;
 
 public class Ex009CalculadoraPintura {
 
+	/*
+	Crie um programa que leia a altura e largura de uma parede (em metros) e 
+	imprima a área da parede e a quantidade de tinta necessária para pintá-la (considerando que cada litro de tinta pinta 2m²).
+	Fórmula para cálculo de área: 
+	int area = alturaDaParede * larguraDaParede;
+	*/
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
