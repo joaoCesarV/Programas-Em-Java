@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Ex008ConversorDolar {
 
+    // Crie um programa que leia a cotação do dólar e um valor em reais e imprima o valor convertido em dólares.
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
