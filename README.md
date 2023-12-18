@@ -8,3 +8,5 @@
 
 **arquivos dos exercícios em =>** [src/exercicios](https://github.com/joaoCesarV/Programas-Em-Java/tree/main/src/exercicios)
 
+**jogo de adivinhação =>** [src/jogo_de_adivinhacao](https://github.com/joaoCesarV/Programas-Em-Java/blob/master/src/jogo_de_adivinhacao/Adivinhador.java)
+
