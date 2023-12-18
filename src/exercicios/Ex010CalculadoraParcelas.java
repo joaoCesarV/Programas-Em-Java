@@ -1,8 +1,8 @@
-package test;
+package exercicios;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex010CalculadoraParcelas {
 
 
 	//Crie um programa que leia o preço à vista de um produto e o número de parcelas e imprima o valor de cada parcela (considerando juros simples de 2% ao mês).

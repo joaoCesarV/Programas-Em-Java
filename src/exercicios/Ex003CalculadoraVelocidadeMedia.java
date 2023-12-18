@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Ex003CalculadoraVelocidadeMedia {
 
-    \\Crie um programa que leia a distância percorrida por um carro (em km) e o tempo gasto (em horas) e imprima a velocidade média do carro.
+    //Crie um programa que leia a distância percorrida por um carro (em km) e o tempo gasto (em horas) e imprima a velocidade média do carro.
 
 
     public static void main(String[] args) {

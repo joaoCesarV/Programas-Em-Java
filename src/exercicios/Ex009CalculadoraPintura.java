@@ -1,3 +1,5 @@
+package exercicios;
+
 import java.util.Scanner;
 
 public class Ex009CalculadoraPintura {
